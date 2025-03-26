@@ -12,9 +12,7 @@ A Spring Boot REST API that allows users to **view available insurance policies,
 ## 🛠️ Tech Stack
 - **Backend**: Spring Boot (Java)
 - **Database**: MySQL
-- **Security**: JWT Authentication (optional)
 - **Testing**: JUnit, Mockito
-- **Deployment**: AWS EC2 / Render / Railway (any public server)
 
 ---
 
